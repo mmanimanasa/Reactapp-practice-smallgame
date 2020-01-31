@@ -18,6 +18,6 @@ This Component contains player status and moves.
 
 Here players are 'X' and 'O'.
 
-### Calculatewinner
+### Winner
 
 This Component calucate the winner depending on their moves.
