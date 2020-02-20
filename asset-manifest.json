@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Reactapp-practice-smallgame/static/css/main.e49d7e2c.chunk.css",
+    "main.js": "/Reactapp-practice-smallgame/static/js/main.3975cdb1.chunk.js",
+    "main.js.map": "/Reactapp-practice-smallgame/static/js/main.3975cdb1.chunk.js.map",
+    "runtime-main.js": "/Reactapp-practice-smallgame/static/js/runtime-main.c53dffb9.js",
+    "runtime-main.js.map": "/Reactapp-practice-smallgame/static/js/runtime-main.c53dffb9.js.map",
+    "static/js/2.ab2ce748.chunk.js": "/Reactapp-practice-smallgame/static/js/2.ab2ce748.chunk.js",
+    "static/js/2.ab2ce748.chunk.js.map": "/Reactapp-practice-smallgame/static/js/2.ab2ce748.chunk.js.map",
+    "index.html": "/Reactapp-practice-smallgame/index.html",
+    "precache-manifest.255ccd5165b5efba1dffb72a192a4cac.js": "/Reactapp-practice-smallgame/precache-manifest.255ccd5165b5efba1dffb72a192a4cac.js",
+    "service-worker.js": "/Reactapp-practice-smallgame/service-worker.js",
+    "static/css/main.e49d7e2c.chunk.css.map": "/Reactapp-practice-smallgame/static/css/main.e49d7e2c.chunk.css.map",
+    "static/js/2.ab2ce748.chunk.js.LICENSE": "/Reactapp-practice-smallgame/static/js/2.ab2ce748.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c53dffb9.js",
+    "static/js/2.ab2ce748.chunk.js",
+    "static/css/main.e49d7e2c.chunk.css",
+    "static/js/main.3975cdb1.chunk.js"
+  ]
+}
